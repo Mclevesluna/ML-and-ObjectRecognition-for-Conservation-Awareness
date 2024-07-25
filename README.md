@@ -40,7 +40,7 @@ The system is trained on a dataset that includes color images of people displayi
 13. **Make Prediction for a Video**: Make predictions for each frame of the captured video.
 14. **Start Live Webcam**: Initiate the live webcam feed and make predictions for each frame in real time.
 
-![ ](/Images/structure.png)
+![ ](/images/structure.png)
 
 
 
