@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a novel system enabling users to select one out of five British birdsongs by displaying the corresponding number of fingers and controlling the volume of the birdsong using speech commands. The system integrates two key components: object detection and speech recognition. It offers flexibility by accepting three types of inputs: still images, webcam videos, and live webcam streams.
+This Machine Learning project presents a novel system enabling users to select one out of five British birdsongs by displaying the corresponding number of fingers and controlling the volume of the birdsong using speech commands. The system integrates two key components: object detection and speech recognition. It offers flexibility by accepting three types of inputs: still images, webcam videos, and live webcam streams.
 
 ## Project Structure
 
