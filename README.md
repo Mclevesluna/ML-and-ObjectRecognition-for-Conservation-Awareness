@@ -84,3 +84,43 @@ import os
 from PIL import Image
 import cv2
 import numpy as np
+```
+## How to run
+
+1. **Clone the repository**
+2. **Setup environment**
+3. **Install dependencies**
+```python
+pip install -r requirements.txt
+```
+4. **Download and Prepare Datasets:** Download the datasets (e.g., British Birdsong Dataset, Selfie Finger Counting Dataset) and place them in the appropriate directories as specified in the code.
+
+Here are the links to the datasets used:
+
+British Birdsong Dataset
+Selfie Finger Counting Dataset
+
+5. **Train the Model:**
+
+Use the provided Jupyter notebook to train the model on a GPU. Ensure you have a GPU-enabled environment set up (e.g., Google Colab).
+Run the Application:
+
+7. **Execute the main script (.ipynb) to start the application**
+
+8. **Using the Application:**
+Select the input type (image, video, or live stream) and display the number of fingers to select a birdsong.
+Use speech commands ("up" or "down") to control the volume of the playback.
+
+## References
+
+[Difference Between a Batch and an Epoch in Neural Networks](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)]
+Image Classification with Attention
+MediaPipe Hands
+Loading All Images Using imread from a Given Folder
+Hand Fingers Detection CNN Tensorflow Keras
+Saving and Loading Models
+British Birdsong Dataset
+Selfie Finger Counting Dataset
+
+
+
