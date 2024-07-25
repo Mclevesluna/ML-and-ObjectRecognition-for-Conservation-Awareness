@@ -97,8 +97,8 @@ pip install -r requirements.txt
 
 Here are the links to the datasets used:
 
-British Birdsong Dataset
-Selfie Finger Counting Dataset
+[British Birdsong Dataset](https://www.kaggle.com/datasets/rtatman/british-birdsong-dataset)
+[Selfie Finger Counting Dataset](https://www.kaggle.com/datasets/zakitaleb/selfie-finger-counting?resource=download)
 
 5. **Train the Model:**
 
@@ -113,14 +113,14 @@ Use speech commands ("up" or "down") to control the volume of the playback.
 
 ## References
 
-[Difference Between a Batch and an Epoch in Neural Networks](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)]
-Image Classification with Attention
-MediaPipe Hands
-Loading All Images Using imread from a Given Folder
-Hand Fingers Detection CNN Tensorflow Keras
-Saving and Loading Models
-British Birdsong Dataset
-Selfie Finger Counting Dataset
+[Difference Between a Batch and an Epoch in Neural Networks](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+[Image Classification with Attention](https://blog.paperspace.com/image-classification-with-attention/)
+[MediaPipe Hands](https://github.com/google/mediapipe/blob/master/docs/solutions/hands.md)
+[Loading All Images Using imread from a Given Folder](https://stackoverflow.com/questions/30230592/loading-all-images-using-imread-from-a-given-folder)
+[Hand Fingers Detection CNN Tensorflow Keras](https://github.com/chauhanmahavir/Hand-Fingers-Detection-CNN-Tensorflow-Keras/blob/master/Fingers_Detection_CNN_Tensorflow_Keras.ipynb)
+[Saving and Loading Models](https://pytorch.org/tutorials/beginner/saving_loading_models.html)
+[British Birdsong Dataset](https://www.kaggle.com/datasets/rtatman/british-birdsong-dataset)
+[Selfie Finger Counting Dataset](https://www.kaggle.com/datasets/zakitaleb/selfie-finger-counting?resource=download)
 
 
 
